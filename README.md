@@ -2,12 +2,23 @@
 
 #### Um entusiasta do desenvolvimento de software que está começando sua emocionante jornada nesse vasto mundo da programação. Este é o meu espaço no GitHub, onde compartilharei meu progresso, projetos e aprendizado ao longo do caminho.
 
+<div>
+📍 Sorocaba/São Paulo<br>
+🍀 Estou estudando Typescript <br>
+🤗 Pronomes: Ele/dele
+</div> <br>
+
+
+
+
 
 <div style="display: inline-block">
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorrmorita/)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-morita-silva-a57059258/)
+
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Igormorita17@gmail.com)
 
 </div>
 
